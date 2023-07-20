@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Sovran",
+    name: "Sovran-binaries",
     platforms: [.macOS(.v10_10)],
     products: [
         .library(
