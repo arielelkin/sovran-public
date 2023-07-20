@@ -6,7 +6,7 @@ let package = Package(
     platforms: [.macOS(.v10_10)],
     products: [
         .library(
-            name: "Sovran",
+            name: "Sovran-binaries",
             targets: ["Sovran"]
         )
     ],
